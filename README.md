@@ -29,6 +29,9 @@ If you want to see how you're progressing, you can check out your stats at: http
 
 This year we have our [hacktoberfest-halloween-graffiti](http://github.com/juniordevio/hacktoberfest-halloween-graffiti) website that we'd like to showcase at the end of the event! Jump on over there and submit a page with anything you like! Could be some info about yourself, links, gifs or even memes.
 
+Twillio (when helped run Hacktoberfest last year) also have their [Open Pixel Art](https://open-pixel-art.com/) - they're also sending swag to people who participate!
+
 You can view all GitHub issues with the labels "hacktoberfest" and "good first issue" [here](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+label%3A"good+first+issue"+).
 
 Ben Barth has put together a [repository of other companies oferring swag](https://github.com/benbarth/hacktoberfest-swag) as part of Hacktoberfest too!
+
