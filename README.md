@@ -21,7 +21,11 @@ There are also other companies participating, as mentioned below!
 
 If you're new to Git and contributing to open source, [Digital Ocean have a fantastic guide available](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) on how to create your first Pull Request.
 
-DEV.to also has a briliant illustrated guide on [different concepts in git](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc).
+DEV.to also has a brilliant illustrated guide on [different concepts in git](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc).
+
+You can find interactive Git cheatsheets to learn about Git [commands](https://ndpsoftware.com/git-cheatsheet.html) and [branching](https://learngitbranching.js.org/).
+
+Made a mistake? Never fear! [Dang it, Git](https://dangitgit.com/) to the rescue.
 
 If you want to see how you're progressing, you can check out your stats at: https://hacktoberfest.digitalocean.com/profile
 
@@ -29,9 +33,9 @@ If you want to see how you're progressing, you can check out your stats at: http
 
 This year we have our [hacktoberfest-halloween-graffiti](http://github.com/juniordevio/hacktoberfest-halloween-graffiti) website that we'd like to showcase at the end of the event! Jump on over there and submit a page with anything you like! Could be some info about yourself, links, gifs or even memes.
 
-Twillio (when helped run Hacktoberfest last year) also have their [Open Pixel Art](https://open-pixel-art.com/) - they're also sending swag to people who participate!
+Twilio (when helped run Hacktoberfest last year) also have their [Open Pixel Art](https://open-pixel-art.com/) - they're also sending swag to people who participate!
 
 You can view all GitHub issues with the labels "hacktoberfest" and "good first issue" [here](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+label%3A"good+first+issue"+).
 
-Ben Barth has put together a [repository of other companies oferring swag](https://github.com/benbarth/hacktoberfest-swag) as part of Hacktoberfest too!
+Ben Barth has put together a [repository of other companies offering swag](https://github.com/benbarth/hacktoberfest-swag) as part of Hacktoberfest too!
 
